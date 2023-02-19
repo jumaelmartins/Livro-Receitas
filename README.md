@@ -16,7 +16,7 @@ foi um exercicio do curso de git/github. o objetivo foi aprender os comandos bas
 
 comandos basicos no terminal com git:
 
-´´´
+```
 git init  // para inicialização de um repositorio em um diretorio
 git add // para fazer o track de arquivos novos ou arquivos atualizados no repositorio
 git status // para saber se há arquivos untracked no repositorio e se ha alteracoes que não foram comitadas.
@@ -24,8 +24,7 @@ git commit // m "" - para fazer o commit das atualizaões
 git remote add origin // para adicionar dados de um repositorio local em um repositorio remoto
 git pull // para baixar dados de umm repositorio remoto para o repositorio local
 git push // para subir as atualizações pra um repositorio remoto
-
-´´´
+```
 
 ## Redes Sociais
 
